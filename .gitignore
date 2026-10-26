@@ -1,0 +1,7 @@
+build*/
+*.csv
+compile_commands.json
+.cache/
+*~
+.*.un~
+.claude/settings.local.json
